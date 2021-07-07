@@ -21,6 +21,10 @@ Run_Sobol_GP.py and Run_Sobol_GS.py provide example functions for calculating So
 train_GS provides example functions for training multiple surrogate models to emulate the Gray_Scott model with different active learning strategies
 train_ISR3D provides example functions for training multiple surrogate models to emulate an ISR3D dataset with different active learning strategies
 
+## Deliverable 2: Uncertainty Quantification of ISR3D Data (IN PROGRESS)
+
+The generated data will be studied and a sensitivity analysis performed on input parameters. 
+
 ## References
 <a id="1">[1]</a> 
 Sambu Seo, Marko Wallat, Thore Graepel, and Klaus Obermayer. Gaussian processregression: Active data selection and test point rejection. InMustererkennung 2000,pages 27–34. Springer, 2000.
